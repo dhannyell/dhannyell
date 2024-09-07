@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Dhannyell Lukas! 🤘
 
+ - Currently an undergraduate Computer Engineering student at [UFC](https://www.ufc.br/)
+ - Developer at **Kanastra**.
 <!--
 **dhannyell/dhannyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
