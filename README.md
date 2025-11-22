@@ -1,7 +1,11 @@
-## Hi, I'm Dhannyell Lukas! 🤘
+## Hi, I'm Dhannyell Lukas 
 
- - Currently an undergraduate Computer Engineering student at [UFC](https://www.ufc.br/)
+ - Computer Engineering Graduated at [UFC](https://www.ufc.br/)
  - Developer at **Kanastra**.
+
+<div style="display: flex; flex-direction: row;">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=dhannyell&theme=darcula&hide_border=true" alt="GitHub Streak Graph"/>
+</div>
 <!--
 **dhannyell/dhannyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
